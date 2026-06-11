@@ -1,5 +1,12 @@
 #!/usr/bin/env bash
 
+cleanup() {
+  docker ps -q --filter "name=core-styles-3-rebuild" | xargs docker rm -f 2>/dev/null
+}
+
+trap cleanup EXIT INT TERM
+
+cleanup
 docker compose run --rm rebuild > /dev/null &
 sleep 4
 docker compose up server
