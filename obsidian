@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+vault_dir=$(basename "$(printf '%s\n' notes-*/ | head -n1)")
+
+nohup obsidian "obsidian://open?vault=${vault_dir}" >/dev/null 2>&1 &
+disown
+

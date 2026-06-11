@@ -13,4 +13,4 @@ menu:
 
 ## Coming soon
 
-For now use the [Standard Promotion Circular Item](/docs/grocery/circulars/standard-promotion-circular-item)
+For now use the [Standard Promotion Circular Item](/docs/3.0/products/circulars/standard-promotion-item)

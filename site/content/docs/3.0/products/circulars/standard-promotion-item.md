@@ -23,7 +23,7 @@ The basic circular image item adds promotional content beyond the standard sale 
 
 Tower format digital circular item with a 2k square image. The format 
 is designed to sit nicely next to our 
-[Standard Circular Item](/docs/3.0/grocery/circulars/standard-circular-item) 
+[Standard Circular Item](/docs/3.0/products/circulars/standard-circular-item) 
 in a row of similar sized items. 
 
 {{< example >}}

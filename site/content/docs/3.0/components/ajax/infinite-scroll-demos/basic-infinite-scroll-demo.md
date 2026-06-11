@@ -12,7 +12,7 @@ menu:
 
 ## Documentation
 
-[Basic Infinite Scroll Documentation](docs/3.0/components/ajax/infinite-scroll/#basic-infinite-scroll-example)
+[Basic Infinite Scroll Documentation](/docs/3.0/components/ajax/infinite-scroll/#basic-infinite-scroll-example)
 
 ## Filler Text
 

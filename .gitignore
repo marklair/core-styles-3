@@ -20,3 +20,12 @@ node_modules
 # Version Files
 versions
 versions/*
+
+# ignore machine-specific obsidian config  
+ /notes-*/.obsidian/workspace.json
+ 
+ # selectively ignore theme-related obsidian vault settings
+ /notes-*/.obsidian/themes/AnuPpuccin/
+ /notes-*/.obsidian/snippets/
+ /notes-*/.obsidian/plugins/obsidian-style-settings/
+ /notes-*/.obsidian/appearance.json

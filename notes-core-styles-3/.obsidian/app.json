@@ -1,0 +1,14 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "media",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 81
+  },
+  "useMarkdownLinks": true,
+  "showLineNumber": false,
+  "showInlineTitle": true,
+  "readableLineLength": true
+}

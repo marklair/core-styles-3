@@ -12,7 +12,7 @@ menu:
 
 ## Documentation
 
-[Load on View Documentation](docs/3.0/components/ajax/infinite-scroll/#load-on-view-example)
+[Load on View Documentation](/docs/3.0/components/ajax/infinite-scroll/#load-on-view-example)
 
 ## Filler Text
 

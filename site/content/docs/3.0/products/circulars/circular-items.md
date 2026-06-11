@@ -15,7 +15,7 @@ menu:
   <div class="row">
     <div class="col">
       <h4 class="text-center">
-        <a href="/docs/3.0/grocery/circulars/standard-circular-item">
+        <a href="/docs/3.0/products/circulars/standard-circular-item">
           Standard Circular Item
         </a>
       </h4>
@@ -23,7 +23,7 @@ menu:
     </div>
     <div class="col">
       <h4 class="text-center">
-        <a href="/docs/3.0/grocery/circulars/standard-promotion-item">
+        <a href="/docs/3.0/products/circulars/standard-promotion-item">
           Standard Promotion Item
         </a>
       </h4>
@@ -31,30 +31,20 @@ menu:
     </div>
     <div class="col">
       <h4 class="text-center">
-        <a href="/docs/3.0/grocery/circulars/Thumbnail-circular-item">
-          Thumbnail Circular Item
+        <a href="/docs/3.0/products/circulars/standard-coupon-item">
+          Standard Coupon Item
         </a>
       </h4>
-      {{< circular/circular-item-thumbnail-example >}}
+      {{< coupons/coupon-item-standard-dove-example >}}
     </div>
   </div>
-
-
   
   <br>
 
   <div class="row">
     <div class="col">
       <h4 class="text-center">
-        <a href="/docs/3.0/grocery/circulars/standard-coupon-item">
-          Standard Coupon Item
-        </a>
-      </h4>
-      {{< coupons/coupon-item-standard-dove-example >}}
-    </div>
-    <div class="col">
-      <h4 class="text-center">
-        <a href="/docs/3.0/grocery/circulars/coupon-item">
+        <a href="/docs/3.0/products/circulars/coupon-item">
           Coupon Circular Item
         </a>
       </h4>
@@ -62,7 +52,7 @@ menu:
     </div>
     <div class="col">
       <h4 class="text-center">
-        <a href="/docs/3.0/grocery/circulars/recipe-item">
+        <a href="/docs/3.0/products/circulars/recipe-item">
           Recipe Circular Item
         </a>
       </h4>
@@ -74,7 +64,7 @@ menu:
   <div class="row">
     <div class="col">
       <h4 class="text-center">
-        <a href="/docs/3.0/grocery/circulars/banner-item">
+        <a href="/docs/3.0/products/circulars/banner-item">
           Banner Circular Item
         </a>
       </h4>
@@ -82,7 +72,6 @@ menu:
     </div>
   </div>
 </div>
-
 
 ---
 

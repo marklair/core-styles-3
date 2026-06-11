@@ -12,7 +12,7 @@ menu:
 
 ## Documentation
 
-[Infinite Scroll with Paging Documentation](docs/3.0/components/ajax/infinite-scroll/#infinite-scroll-with-paging-example)
+[Infinite Scroll with Paging Documentation](/docs/3.0/components/ajax/infinite-scroll/#infinite-scroll-with-paging-example)
 
 ## Paging
 

@@ -31,7 +31,7 @@ Node Modules.
 After about 10 minutes everything should be downloaded and ready to use.
 
 _If you have further questions about the repo see the 
-[README]([https://github.com/webstop/core-styles#webstop-style-guide) file._
+[README](https://github.com/webstop/core-styles#webstop-style-guide) file._
 
 ## Development
 
@@ -61,7 +61,7 @@ At this point your first tab is available for you to run git commands, your
 second tab is running a web server, and your third tab is running a Sass 
 watch script.
 
-Now, visit the development website here: [localhost:4000]({{ jekyll_host }}/).
+Now, visit the development website here: [localhost:1313](http://localhost:1313/).
 
 ### Developing a Component
 

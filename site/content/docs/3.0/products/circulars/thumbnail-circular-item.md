@@ -3,12 +3,9 @@ layout: docs
 title: Thumbnail (Classic) Circular Item
 description: The classic individual sale item inside the digital circular.
 group: circulars
-toc: true
+toc: false
 source: Webstop
-menu: 
-  products:
-    tags: "Circulars"
-    parent: Circulars
+
 ---
 
 <div class="alert alert-warning" role="alert">

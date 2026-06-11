@@ -57,6 +57,6 @@ into our various back-end systems the same way.
 
 ---
 
-See our [Development Process Guide](/docs/guide/development-process/) to 
+See our [Development Process Guide](/guides/3.0/development-process/) to 
 learn more about how to use the core-styles in day-to-day design and 
 development.  

@@ -44,7 +44,7 @@ _There's really no down side to always styling class attributes, and quite a few
 
 Nearly everything should be a component. Only when desiring to update the base styling of _every element on the site_ 
 should you style anything in a pattern other than the component pattern.
-_See the [components guide](/docs/3.0/guides/components) for more details on creating
+_See the [components guide](/guides/3.0/components) for more details on creating
 components._
 
 The base component will be enclosed in a class of it's name. 
@@ -78,9 +78,9 @@ The class names for a single item will be singular and when we have a collection
 </div>
 ```
 
-If you haven't read the [components guide](/docs/3.0/guides/components) guide lately it is a good idea to review it now. 
+If you haven't read the [components guide](/guides/3.0/components) guide lately it is a good idea to review it now. 
 It has valuable information about things like the various types of class names and the conventions for naming them, the 
-order classes should be applied to the HTML class attribute, and etc. See the [components guide](/docs/3.0/guides/components) 
+order classes should be applied to the HTML class attribute, and etc. See the [components guide](/guides/3.0/components) 
 for more details on creating components.
 
 ## Use Semantic Design

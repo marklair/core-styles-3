@@ -12,8 +12,8 @@ menu:
 ## Stylesheets & Javascripts
 
 It's important to note that we use different CSS and JS files for admin layouts than we do for public facing layouts.
-The code on this page is for admin layouts only, see the [public layouts page](/docs/3.0/layouts/public/) for information
-on public layouts.
+The code on this page is for public layouts only, see the [admin layouts page](/docs/3.0/layouts/admin/) for information
+on admin layouts.
 
 ### The following belongs in the `<head>` tag of the admin layouts.
 

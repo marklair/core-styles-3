@@ -153,8 +153,10 @@
         let $btn = $(this);
         // submit inputs use val and submit buttons use text.
         if ($btn.is('input')) {
+          $btn.data('original-text', $btn.val());
           $btn.val(loadingText);
         } else {
+          $btn.data('original-text', $btn.html());
           $btn.text(loadingText);
         }
         $btn.prop('disabled', true);
@@ -171,6 +173,16 @@
       $submitButtons.prop('disabled', true);
 
       $target.load(url,data,function(){
+        $submitButtons.each(function() {
+          let $btn = $(this);
+          let originalText = $btn.data('original-text');
+          if ($btn.is('input')) {
+            $btn.val(originalText);
+          } else {
+            $btn.html(originalText);
+          }
+          $btn.prop('disabled', false);
+        });
         if(hasClearOnComplete){ clearOnComplete(clearOnCompleteTarget); }
         if(hasHideOnComplete){ hideOnComplete(hideOnCompleteTarget); }
         if(hasShowOnComplete){ showOnComplete(showOnCompleteTarget); }
@@ -341,7 +353,8 @@
       .then(function(response) { return response.text(); })
       .then(function(body) { target.innerHTML = body; })
       .then(function() { if(infinite){
-        pagingObserver.observe(target.querySelector('.paging-trigger'));
+        let pagingTrigger = target.querySelector('.paging-trigger');
+        if (pagingTrigger) { pagingObserver.observe(pagingTrigger); }
         enableNextLoadOnView(target);
         initDataAttributes();
       } });

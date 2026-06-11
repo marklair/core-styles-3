@@ -1,0 +1,341 @@
+{
+  "main": {
+    "id": "55bfe1ca89aae8d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8d5f6b495208c3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d41356eaba5044e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plans/design/2026-04-24-s3-browser-rmg-suggested-path-date-refinement-design.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-24-s3-browser-rmg-suggested-path-date-refinement-design"
+            }
+          },
+          {
+            "id": "a53572699e3b6740",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODOs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TODOs"
+            }
+          },
+          {
+            "id": "b80d42f071c1f3f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Claude project config notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Claude project config notes"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2efbc878036cda5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "179c6ba1a115bcd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d14ed600328e18c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1e05cdac8ffac4c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "stub_any_instance",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2fbf55bd0143378a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5
+  },
+  "right": {
+    "id": "c092524af4c907bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c1e8152a176edc3",
+        "type": "tabs",
+        "dimension": 63.53017521090201,
+        "children": [
+          {
+            "id": "87d62475f3a7a967",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bbf1e78bd653187c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6062631768e354f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Claude project config notes.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Claude project config notes"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "98e862e6966ab226",
+        "type": "tabs",
+        "dimension": 36.469824789097984,
+        "children": [
+          {
+            "id": "c69e975d0e438497",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Claude project config notes.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1.006787109375,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.2732171589575487,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Claude project config notes"
+            }
+          },
+          {
+            "id": "3749a7f03c4fd62e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "plans/requests/TODOs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TODOs"
+            }
+          },
+          {
+            "id": "92a048a485650f93",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "plans/requests/TODOs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TODOs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b80d42f071c1f3f3",
+  "lastOpenFiles": [
+    "TODOs.md",
+    "Claude project config notes.md",
+    "plans/design/2026-04-24-s3-browser-rmg-suggested-path-date-refinement-design.md",
+    "plans/design/2026-04-13-price-display-popover-design.md",
+    "CLAUDE-rails.md",
+    "plans/runbooks/2026-04-28-master-search-cutover.md",
+    "plans/implementation/2026-04-29-master-embedding-pipeline-efficiency-implementation.md",
+    "plans/implementation/2026-04-24-s3-browser-rmg-suggested-path-date-refinement-implementation.md",
+    "plans/design/2026-04-27-master-record-search-refinements-design.md",
+    "plans/design/archived/2026-04-08-three-tier-reranker-pipeline-design.md",
+    "plans/design/2026-04-29-master-embedding-pipeline-efficiency-design.md",
+    "plans/design/2026-04-23-s3-browser-rmg-suggested-path-design.md",
+    "CLAUDE.md",
+    "plans/implementation/2026-04-28-master-record-search-refinements-implementation.md",
+    "plans/sample-data/claude.md updates for new project.md",
+    "plans/implementation/2026-04-29-master-embedding-pipeline-efficiency-implementation.md.tmp.13.1777493572344",
+    "plans/implementation/2026-04-29-master-embedding-pipeline-efficiency-implementation.md.tmp.13.1777493541093",
+    "plans/implementation/2026-04-29-master-embedding-pipeline-efficiency-implementation.md.tmp.13.1777493524852",
+    "plans/implementation/2026-04-29-master-embedding-pipeline-efficiency-implementation.md.tmp.13.1777493511422",
+    "plans/implementation/2026-04-29-master-embedding-pipeline-efficiency-implementation.md.tmp.13.1777493433870",
+    "plans/implementation/2026-04-29-master-embedding-pipeline-efficiency-implementation.md.tmp.13.1777493362809",
+    "plans/implementation/archived/2026-04-09-two-phase-search-with-flip-animation-implementation.md",
+    "plans/design/2026-04-29-master-embedding-pipeline-efficiency-design.md.tmp.13.1777492875915",
+    "plans/design/2026-04-29-master-embedding-pipeline-efficiency-design.md.tmp.13.1777492123152",
+    "plans/design/archived/2026-04-09-two-phase-search-with-flip-animation-design.md",
+    "plans/test/Test import and export with real data.md",
+    "TODOs.md.tmp.13.1777392215271",
+    "plans/design/2026-04-09-production-db-provisioning-design.md",
+    "plans/implementation/2026-04-09-production-db-provisioning-implementation.md",
+    "plans/runbooks/2026-04-28-master-search-cutover.md.tmp.13.1777384251939",
+    "plans/design/archived/2026-04-09-production-db-provisioning-design.md",
+    "plans/implementation/archived/2026-04-09-production-db-provisioning-implementation.md",
+    "plans/sample-data/parse_documents json response format.md",
+    "plans/design/2026-04-08-three-tier-reranker-pipeline-design.md",
+    "plans/implementation/2026-04-08-three-tier-reranker-pipeline-implementation.md",
+    "plans/implementation/archived/2026-04-08-three-tier-reranker-pipeline-implementation.md",
+    "media/ad-import-request-83-error-detail.png",
+    "media/ad_import_request-edit-screenshot.png",
+    "plans/sample-data/Newsprint_210309_NCM_Base_1_Page_1_Zone_1.jpg",
+    "media/price-display-popover-mockup.svg",
+    "media/mockup-ad-importer.png",
+    "media/master-record-search-form-mockup.svg",
+    "media/master-record-result-card-mockup.svg",
+    "media/mapping-aditems-adentry-to-master.png",
+    "media/json_syntax_highlight_issue.png",
+    "media/Dev-Tools.excalidraw.png",
+    "Untitled.canvas"
+  ]
+}
